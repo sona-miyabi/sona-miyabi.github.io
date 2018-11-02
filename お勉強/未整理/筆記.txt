@@ -1,0 +1,16 @@
+parseInt(name)
+â¦í®ï®üµ
+
+o= object
+
+
+funtion ÏêÏê(arg1,arg2,ar3){return arg1+arg2ê¡ß©Û°ãÒ}
+
+
+á³ÎÀûÁ â¦ùÊê¡ß©
+ùÞâ¦
+
+ñéÎÀûÜ arry
+ÓßßÚáÕàõ
+
+ÓÞÎÀûÁ ÓÛØ§Ï¡æ´£¨ïÒëùÚªËì£©

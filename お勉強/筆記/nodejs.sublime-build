@@ -1,0 +1,15 @@
+{
+  "cmd": ["chcp 65001>nul 2>nul &  taskkill /F /IM node.exe>nul 2>nul & C:/MyApp/node.exe  $file"],
+  "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+  "selector": "source.js",
+  "shell": true,
+  "encoding": "utf8",
+  "windows": {
+    "shell_cmd": "chcp 65001>nul 2>nul &  taskkill /F /IM node.exe>nul 2>nul & node.exe  $file",
+    // "shell_cmd": "chcp 65001 &  node $file",
+  },
+  "env": {
+    "NODE_PATH":"d:/node_modules",
+    "NODE_DEBUG":"aonun",
+  }
+}

@@ -1,0 +1,14 @@
+// 下面代码是一段逻辑判断程序
+
+/*
+这种注释
+可以输入多行
+同样也不会被javascript运行。
+*/
+
+var i=11
+if( i<10 ) {
+  console.log('可以');
+}else {
+  console.log('超过');
+}

@@ -1,0 +1,9 @@
+alt+shift + 1
+alt+shift + 2
+alt+shift + 3
+alt+shift + 4
+alt+shift + 5
+alt+shift + 6
+alt+shift + 7
+alt+shift + 8
+alt+shift + 9
